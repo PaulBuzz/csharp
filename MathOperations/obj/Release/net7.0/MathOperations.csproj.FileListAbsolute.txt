@@ -1,0 +1,15 @@
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/bin/Release/net7.0/MathOperations
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/bin/Release/net7.0/MathOperations.deps.json
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/bin/Release/net7.0/MathOperations.runtimeconfig.json
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/bin/Release/net7.0/MathOperations.dll
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/bin/Release/net7.0/MathOperations.pdb
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/obj/Release/net7.0/MathOperations.csproj.AssemblyReference.cache
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/obj/Release/net7.0/MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/obj/Release/net7.0/MathOperations.AssemblyInfoInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/obj/Release/net7.0/MathOperations.AssemblyInfo.cs
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/obj/Release/net7.0/MathOperations.csproj.CoreCompileInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/obj/Release/net7.0/MathOperations.dll
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/obj/Release/net7.0/refint/MathOperations.dll
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/obj/Release/net7.0/MathOperations.pdb
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/obj/Release/net7.0/MathOperations.genruntimeconfig.cache
+/Users/macintosh/Projects/ConsoleProgramming/MathOperations/obj/Release/net7.0/ref/MathOperations.dll

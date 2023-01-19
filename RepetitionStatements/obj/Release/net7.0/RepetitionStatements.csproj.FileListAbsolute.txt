@@ -1,0 +1,15 @@
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/bin/Release/net7.0/RepetitionStatements
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/bin/Release/net7.0/RepetitionStatements.deps.json
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/bin/Release/net7.0/RepetitionStatements.runtimeconfig.json
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/bin/Release/net7.0/RepetitionStatements.dll
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/bin/Release/net7.0/RepetitionStatements.pdb
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/obj/Release/net7.0/RepetitionStatements.csproj.AssemblyReference.cache
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/obj/Release/net7.0/RepetitionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/obj/Release/net7.0/RepetitionStatements.AssemblyInfoInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/obj/Release/net7.0/RepetitionStatements.AssemblyInfo.cs
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/obj/Release/net7.0/RepetitionStatements.csproj.CoreCompileInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/obj/Release/net7.0/RepetitionStatements.dll
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/obj/Release/net7.0/refint/RepetitionStatements.dll
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/obj/Release/net7.0/RepetitionStatements.pdb
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/obj/Release/net7.0/RepetitionStatements.genruntimeconfig.cache
+/Users/macintosh/Projects/ConsoleProgramming/RepetitionStatements/obj/Release/net7.0/ref/RepetitionStatements.dll

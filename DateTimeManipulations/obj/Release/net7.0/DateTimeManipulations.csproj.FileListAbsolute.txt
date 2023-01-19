@@ -1,0 +1,15 @@
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/bin/Release/net7.0/DateTimeManipulations
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/bin/Release/net7.0/DateTimeManipulations.deps.json
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/bin/Release/net7.0/DateTimeManipulations.runtimeconfig.json
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/bin/Release/net7.0/DateTimeManipulations.dll
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/bin/Release/net7.0/DateTimeManipulations.pdb
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/obj/Release/net7.0/DateTimeManipulations.csproj.AssemblyReference.cache
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/obj/Release/net7.0/DateTimeManipulations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/obj/Release/net7.0/DateTimeManipulations.AssemblyInfoInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/obj/Release/net7.0/DateTimeManipulations.AssemblyInfo.cs
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/obj/Release/net7.0/DateTimeManipulations.csproj.CoreCompileInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/obj/Release/net7.0/DateTimeManipulations.dll
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/obj/Release/net7.0/refint/DateTimeManipulations.dll
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/obj/Release/net7.0/DateTimeManipulations.pdb
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/obj/Release/net7.0/DateTimeManipulations.genruntimeconfig.cache
+/Users/macintosh/Projects/ConsoleProgramming/DateTimeManipulations/obj/Release/net7.0/ref/DateTimeManipulations.dll

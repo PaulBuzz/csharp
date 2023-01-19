@@ -1,0 +1,15 @@
+/Users/macintosh/Projects/ConsoleProgramming/Methods/obj/Release/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/macintosh/Projects/ConsoleProgramming/Methods/obj/Release/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Projects/ConsoleProgramming/Methods/obj/Release/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/Methods/obj/Release/net7.0/Methods.AssemblyInfo.cs
+/Users/macintosh/Projects/ConsoleProgramming/Methods/obj/Release/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/Methods/bin/Release/net7.0/Methods
+/Users/macintosh/Projects/ConsoleProgramming/Methods/bin/Release/net7.0/Methods.deps.json
+/Users/macintosh/Projects/ConsoleProgramming/Methods/bin/Release/net7.0/Methods.runtimeconfig.json
+/Users/macintosh/Projects/ConsoleProgramming/Methods/bin/Release/net7.0/Methods.dll
+/Users/macintosh/Projects/ConsoleProgramming/Methods/bin/Release/net7.0/Methods.pdb
+/Users/macintosh/Projects/ConsoleProgramming/Methods/obj/Release/net7.0/Methods.dll
+/Users/macintosh/Projects/ConsoleProgramming/Methods/obj/Release/net7.0/refint/Methods.dll
+/Users/macintosh/Projects/ConsoleProgramming/Methods/obj/Release/net7.0/Methods.pdb
+/Users/macintosh/Projects/ConsoleProgramming/Methods/obj/Release/net7.0/Methods.genruntimeconfig.cache
+/Users/macintosh/Projects/ConsoleProgramming/Methods/obj/Release/net7.0/ref/Methods.dll

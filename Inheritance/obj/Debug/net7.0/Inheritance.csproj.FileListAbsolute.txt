@@ -1,0 +1,15 @@
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/macintosh/Projects/ConsoleProgramming/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll

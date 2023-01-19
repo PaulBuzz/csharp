@@ -1,0 +1,15 @@
+/Users/macintosh/Projects/ConsoleProgramming/Lists/bin/Debug/net7.0/Lists
+/Users/macintosh/Projects/ConsoleProgramming/Lists/bin/Debug/net7.0/Lists.deps.json
+/Users/macintosh/Projects/ConsoleProgramming/Lists/bin/Debug/net7.0/Lists.runtimeconfig.json
+/Users/macintosh/Projects/ConsoleProgramming/Lists/bin/Debug/net7.0/Lists.dll
+/Users/macintosh/Projects/ConsoleProgramming/Lists/bin/Debug/net7.0/Lists.pdb
+/Users/macintosh/Projects/ConsoleProgramming/Lists/obj/Debug/net7.0/Lists.csproj.AssemblyReference.cache
+/Users/macintosh/Projects/ConsoleProgramming/Lists/obj/Debug/net7.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Projects/ConsoleProgramming/Lists/obj/Debug/net7.0/Lists.AssemblyInfoInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/Lists/obj/Debug/net7.0/Lists.AssemblyInfo.cs
+/Users/macintosh/Projects/ConsoleProgramming/Lists/obj/Debug/net7.0/Lists.csproj.CoreCompileInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/Lists/obj/Debug/net7.0/Lists.dll
+/Users/macintosh/Projects/ConsoleProgramming/Lists/obj/Debug/net7.0/refint/Lists.dll
+/Users/macintosh/Projects/ConsoleProgramming/Lists/obj/Debug/net7.0/Lists.pdb
+/Users/macintosh/Projects/ConsoleProgramming/Lists/obj/Debug/net7.0/Lists.genruntimeconfig.cache
+/Users/macintosh/Projects/ConsoleProgramming/Lists/obj/Debug/net7.0/ref/Lists.dll

@@ -1,0 +1,15 @@
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/bin/Debug/net7.0/ClassesAndObjects
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/bin/Debug/net7.0/ClassesAndObjects.deps.json
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/bin/Debug/net7.0/ClassesAndObjects.runtimeconfig.json
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/bin/Debug/net7.0/ClassesAndObjects.dll
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/bin/Debug/net7.0/ClassesAndObjects.pdb
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.csproj.AssemblyReference.cache
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.AssemblyInfoInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.AssemblyInfo.cs
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.csproj.CoreCompileInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.dll
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/obj/Debug/net7.0/refint/ClassesAndObjects.dll
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.pdb
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/obj/Debug/net7.0/ClassesAndObjects.genruntimeconfig.cache
+/Users/macintosh/Projects/ConsoleProgramming/ClassesAndObjects/obj/Debug/net7.0/ref/ClassesAndObjects.dll

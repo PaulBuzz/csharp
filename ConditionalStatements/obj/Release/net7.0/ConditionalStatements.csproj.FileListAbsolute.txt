@@ -1,0 +1,15 @@
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/bin/Release/net7.0/ConditionalStatements
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/bin/Release/net7.0/ConditionalStatements.deps.json
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/bin/Release/net7.0/ConditionalStatements.runtimeconfig.json
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/bin/Release/net7.0/ConditionalStatements.dll
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/bin/Release/net7.0/ConditionalStatements.pdb
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/obj/Release/net7.0/ConditionalStatements.csproj.AssemblyReference.cache
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/obj/Release/net7.0/ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/obj/Release/net7.0/ConditionalStatements.AssemblyInfoInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/obj/Release/net7.0/ConditionalStatements.AssemblyInfo.cs
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/obj/Release/net7.0/ConditionalStatements.csproj.CoreCompileInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/obj/Release/net7.0/ConditionalStatements.dll
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/obj/Release/net7.0/refint/ConditionalStatements.dll
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/obj/Release/net7.0/ConditionalStatements.pdb
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/obj/Release/net7.0/ConditionalStatements.genruntimeconfig.cache
+/Users/macintosh/Projects/ConsoleProgramming/ConditionalStatements/obj/Release/net7.0/ref/ConditionalStatements.dll

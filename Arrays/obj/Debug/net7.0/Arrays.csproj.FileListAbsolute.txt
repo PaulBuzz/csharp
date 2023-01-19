@@ -1,0 +1,15 @@
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/bin/Debug/net7.0/Arrays
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/macintosh/Projects/ConsoleProgramming/Arrays/obj/Debug/net7.0/ref/Arrays.dll

@@ -1,0 +1,15 @@
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/bin/Debug/net7.0/StringManipulations
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/bin/Debug/net7.0/StringManipulations.deps.json
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/bin/Debug/net7.0/StringManipulations.runtimeconfig.json
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/bin/Debug/net7.0/StringManipulations.dll
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/bin/Debug/net7.0/StringManipulations.pdb
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/obj/Debug/net7.0/StringManipulations.csproj.AssemblyReference.cache
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/obj/Debug/net7.0/StringManipulations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/obj/Debug/net7.0/StringManipulations.AssemblyInfoInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/obj/Debug/net7.0/StringManipulations.AssemblyInfo.cs
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/obj/Debug/net7.0/StringManipulations.csproj.CoreCompileInputs.cache
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/obj/Debug/net7.0/StringManipulations.dll
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/obj/Debug/net7.0/refint/StringManipulations.dll
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/obj/Debug/net7.0/StringManipulations.pdb
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/obj/Debug/net7.0/StringManipulations.genruntimeconfig.cache
+/Users/macintosh/Projects/ConsoleProgramming/StringManipulations/obj/Debug/net7.0/ref/StringManipulations.dll
